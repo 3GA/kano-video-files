@@ -1,3 +1,9 @@
+kano-video-files (1.2-1) unstable; urgency=low
+
+  * Added art.mp4
+
+ -- Team Kano <dev@kano.me>  Thu, 02 Jul 2015 17:24:00 +0100
+
 kano-video-files (1.1-2) unstable; urgency=low
 
   * Changed videos to .mp4 version
