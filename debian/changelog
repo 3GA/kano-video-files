@@ -1,3 +1,9 @@
+kano-video-files (1.3-1) unstable; urgency=low
+
+  * Removed packaging of size-hungry video files not used anymore
+
+ -- Team Kano <dev@kano.me>  Mon, 11 Apr 2016 18:36:00 +0100
+
 kano-video-files (1.2-1) unstable; urgency=low
 
   * Added art.mp4
