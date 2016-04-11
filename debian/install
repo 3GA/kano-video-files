@@ -1,1 +1,4 @@
-videos usr/share/kano-media
+videos/art.mp4 usr/share/kano-media/videos
+videos/minecraft.mp4 usr/share/kano-media/videos
+videos/pong.mp4 usr/share/kano-media/videos
+videos/subtitles usr/share/kano-media/videos
